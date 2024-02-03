@@ -1,4 +1,4 @@
-##EN
+## EN
 # Hello! 👋 I'm Samuel, Multidisciplinary Developer
 
 <!--![Example Landscape](image_link.jpg)-->
@@ -39,7 +39,7 @@ I'm always ready to collaborate! If you have any fascinating projects in mind or
 
 Thank you for visiting my profile and exploring my work. I hope you find something interesting! 😊
 
----
+##
 JP
 
 # こんにちは！👋 私はサムエル、多岐にわたる開発者です
@@ -82,7 +82,7 @@ GitHubへようこそ！私は複数の分野でソフトウェア開発に情�
 
 私のプロフィールを訪れてくれて、私の仕事を探索してくれてありがとう。何か面白いものが見つかることを願っています！ 😊
 
----
+##
 ES
 
 # ¡Hola! 👋 Soy Samuel, Desarrollador(a) Multidisciplinario
