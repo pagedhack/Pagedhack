@@ -1,9 +1,7 @@
 --- EN
-### Hi there 
-
 # Hello! 👋 I'm Samuel, Multidisciplinary Developer
 
-![Example Landscape](image_link.jpg)
+<!--![Example Landscape](image_link.jpg)-->
 
 Welcome to my GitHub space! I'm passionate about software development across multiple disciplines. In the process of obtaining my degree in Computer Science, I dedicate myself to constant exploration and learning in the vast world of computing. Additionally, I have a keen interest in astronomy and music.
 
