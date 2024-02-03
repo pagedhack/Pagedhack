@@ -1,4 +1,4 @@
---- EN
+##EN
 # Hello! 👋 I'm Samuel, Multidisciplinary Developer
 
 <!--![Example Landscape](image_link.jpg)-->
