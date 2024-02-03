@@ -1,6 +1,5 @@
 ## EN
 # Hello! 👋 I'm Samuel, Multidisciplinary Developer
-
 <!--![Example Landscape](image_link.jpg)-->
 
 Welcome to my GitHub space! I'm passionate about software development across multiple disciplines. In the process of obtaining my degree in Computer Science, I dedicate myself to constant exploration and learning in the vast world of computing. Additionally, I have a keen interest in astronomy and music.
@@ -44,8 +43,6 @@ JP
 
 # こんにちは！👋 私はサムエル、多岐にわたる開発者です
 
-![風景の例](画像のリンク.jpg)
-
 GitHubへようこそ！私は複数の分野でソフトウェア開発に情熱を傾けています。コンピュータサイエンスの学位取得の過程で、計算機科学の広大な世界での探求と学習に専念しています。加えて、天文学と音楽にも強い興味を抱いています。
 
 ## 自己紹介
@@ -86,8 +83,6 @@ GitHubへようこそ！私は複数の分野でソフトウェア開発に情�
 ES
 
 # ¡Hola! 👋 Soy Samuel, Desarrollador(a) Multidisciplinario
-
-![Paisaje Ejemplo](enlace_a_la_imagen.jpg)
 
 ¡Bienvenido/a a mi espacio en GitHub! Soy un entusiasta del desarrollo de software en múltiples disciplinas. En el proceso de obtener mi graduación, me dedico a la exploración constante y al aprendizaje en el vasto mundo de la informática. Además, tengo un gran interés en la astronomía y la música.
 
