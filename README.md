@@ -37,48 +37,8 @@ I'm always ready to collaborate! If you have any fascinating projects in mind or
 ## Acknowledgment
 
 Thank you for visiting my profile and exploring my work. I hope you find something interesting! 😊
-
 ##
-JP
-
-# こんにちは！👋 私はサムエル、多岐にわたる開発者です
-
 GitHubへようこそ！私は複数の分野でソフトウェア開発に情熱を傾けています。コンピュータサイエンスの学位取得の過程で、計算機科学の広大な世界での探求と学習に専念しています。加えて、天文学と音楽にも強い興味を抱いています。
-
-## 自己紹介
-
-- 🌍 場所: メキシコ
-- 💼 多岐にわたる開発者
-- 🎓 コンピュータサイエンスの学位取得途中
-- 📧 メールでのお問い合わせ: samu1@outlook.es
-- 😄 代名詞: Pagehack5961、Pagedhack5961、Shiro、Zero。
-
-- 🔭 現在はさまざまな魅力的なプロジェクトに没頭しています。音楽制作のプロジェクトでは、バーチャルボイスと協力して日本の音楽を制作・プロデュースしています。さらに、仮想アシスタントの開発においてより効率的かつアクセス可能な方法を研究しています。また、情報管理の向上を目指すオブジェクトリレーショナルデータベースに関連するプロジェクトにも貢献しています。音楽的な創造性から仮想アシスタント技術の効率性、データベースの最適化までをカバーするこれらのプロジェクトに参加することにワクワクしています！
-
-## 技術とスキル
-
-- 💻 言語: Java、C++、Python、JavaScript、HTML、CSS、PHP
-- 🚀 技術: React、Node.js、MySQL、モバイル開発、Django（PythonのWebフレームワーク）、Angular（JavaScriptのフレームワーク）、Flask（PythonのWebフレームワーク）
-- 🤖 人工知能の探求と学習
-
-## 注目のプロジェクト
-
-1. **[ポートフォリオウェブサイト]**
-   - 私自身のスキルとプロジェクトを紹介する個人のウェブサイト。
-   - [リポジトリへのリンク](https://github.com/pagedhack/portfolio)
-
-## 協力
-
-常に協力を歓迎しています！面白いプロジェクトがあるか、または貢献をお探しの場合は、お気軽にご連絡ください。また、私は現在人工知能の研究に没頭しており、その他の情熱的な分野でも知識を共有し、サポートできます。革新的なプロジェクトに参加し、献身的なチームと共に学ぶことを心待ちにしています！
-
-## プロフェッショナルGitHub統計
-
-[![プロフェッショナルGitHub統計](https://github-readme-stats.vercel.app/api?username=pagedhack&show_icons=true&theme=radical)](https://github.com/pagedhack)
-
-## 謝辞
-
-私のプロフィールを訪れてくれて、私の仕事を探索してくれてありがとう。何か面白いものが見つかることを願っています！ 😊
-
 ##
 ES
 
